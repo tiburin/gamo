@@ -1,0 +1,6 @@
+/target
+Cargo.lock
+/parts
+/release
+/build
+.DS_Store

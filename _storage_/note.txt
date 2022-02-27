@@ -1,0 +1,11 @@
+WARNING!
+
+(words.txt) contains unfiltered words
+    - that might offend some people 
+    - or inappropriate to children.
+
+You can download & upload (words.txt) to 
+    - https://tiburin.com/apps/book
+    - for practice touch typing
+
+-- Your Welcome to add/remove words --
