@@ -1,13 +1,3 @@
-# Organize all english words into each category
+# Explore ideas for a better way to  organize words in multiple spoken languages
 
-example: 
-
-work
-working
-worked
-books
-ate
-men
-known
-easily
-easiest
+This repo should be cloned for each language added.
